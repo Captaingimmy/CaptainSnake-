@@ -11,3 +11,9 @@ Main menu :
 
 ![](hotz.png)
 
+
+Game :
+
+
+![](hotz2.png)
+
