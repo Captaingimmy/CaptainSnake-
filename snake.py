@@ -3,6 +3,7 @@ import sys,random
 import pygame 
 import os
 from pygame.locals import *
+
 pygame.init()
 
 background = pygame.image.load('Space.jpg')
