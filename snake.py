@@ -7,7 +7,7 @@ pygame.init()
 
 background = pygame.image.load('Space.jpg')
 nebula = pygame.image.load('nebula.jpg')
-snake = pygame.image.load('snake.png')
+
 WIN_X= 1550
 WIN_Y= 870
 
